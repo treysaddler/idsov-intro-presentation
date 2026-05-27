@@ -1,0 +1,142 @@
+---
+title: "Introduction to Indigenous Data Sovereignty"
+subtitle: "Asserting Self-Determination in the Digital Age"
+author: "Trey Saddler"
+date: "2026-05-28"
+format: revealjs
+slide-number: c/t
+transition: slid
+transition-speed: fast
+theme: seri
+center: false
+incremental: true
+---
+
+Historical Context and Colonial Extraction
+
+    The Extraction Paradigm: Traditional knowledge and genetic resources harvested historically without consent.[1, 3]
+    Deficit-Based Portrayals: Focus on "5D data" (differences, disparities, disadvantages, dysfunction, deprivation).[2]
+    Systemic Consequences: Colonial statistical framing used to justify state intervention and paternalistic policies.[2]
+
+::: {.notes} The presentation begins by establishing the historical and modern landscape of data collection within tribal communities. The presenter should emphasize that data is not a neutral, value-free asset; rather, under settler-colonial states, it has historically been gathered through extractive processes and framed through a deficit lens to justify paternalistic state interventions. This slide establishes the historical context that necessitates a complete shift to tribal data self-governance. :::
+Defining Indigenous Data Sovereignty
+
+    Inherent Authority: Derived from the inherent right of tribes to govern their peoples, lands, and resources.[3, 4, 5]
+    Comprehensive Scope: Governs collection, ownership, application, and distribution of all community-derived information.[1, 2]
+    Rights Holders: Rejects the passive classification of Indigenous Nations as mere stakeholders or consultees.[2, 7]
+
+::: {.notes} This slide formally defines Indigenous Data Sovereignty. The presenter should highlight that this sovereignty is an inherent, political right, not a legal right granted by external governments. It represents a fundamental shift in position, transforming Native Nations from passive research subjects or consultees to active rights holders who maintain ultimate authority over their own representation and data structures. :::
+The First Nations Principles of OCAP
+::: {.columns} ::: {.column width="50%"}
+
+    Ownership: Collective relationship of a Nation to its cultural knowledge and datasets.[9, 12]
+    Control: Governing all aspects of the research, analysis, and management lifecycle.[9, 12] ::: ::: {.column width="50%"}
+    Access: Right of Nations to access their data, regardless of physical storage location.[9, 12]
+    Possession: Physical stewardship and custody of data to protect collective ownership.[9, 12] ::: :::
+
+::: {.notes} The OCAP principles, developed in 1998 by the Assembly of First Nations National Steering Committee, are presented as a primary ethical standard for data governance. The presenter should walk the audience through each of the four components, explaining that ownership refers to the relationship, control refers to the authority, access refers to the availability, and possession is the concrete, physical mechanism that secures and protects the preceding three principles in practice. :::
+Human Rights and International Frameworks
+
+    UNDRIP Alignment: Rooted in the United Nations Declaration on the Rights of Indigenous Peoples.[1, 4, 26]
+    Free, Prior, and Informed Consent: Mandates active consent at every stage of the data lifecycle.[9, 15, 18]
+    Transnational Alliances: Inter-tribal collaborations established to safeguard rights and prevent knowledge exploitation.[3, 8, 24]
+
+::: {.notes} This slide connects localized data struggles to the international human rights arena, specifically referencing UNDRIP. The presenter should explain that while UNDRIP provides a vital baseline, it is insufficient on its own, requiring Indigenous-designed legal frameworks and localized regulations to be fully operationalized within tribal jurisdictions. :::
+The CARE Principles for Data Governance
+
+    Collective Benefit: Designing data ecosystems so that communities derive direct, tangible value.[15, 30]
+    Authority to Control: Recognizing inherent rights to determine representation and apply local protocols.[17, 18]
+    Responsibility: Fostering relationships built on trust, reciprocity, and mutual capacity building.[15, 18]
+    Ethics: Prioritizing cultural safety, minimizing future harm, and rejecting deficit narratives.[16, 18]
+
+::: {.notes} The CARE principles, co-released in 2019 by GIDA, are presented as a framework for data governance. The presenter should outline each of the four components, highlighting that CARE introduces a human-rights-based, people-and-purpose-oriented dimension to data stewardship, forcing external researchers and open data repositories to prioritize relational ethics over unrestricted extraction. :::
+Technical Synergy: Aligning FAIR and CARE
+
+    FAIR (Data-Centric): Optimizes Findability, Accessibility, Interoperability, and Reusability for machine-sharing.[16, 17]
+    CARE (People-Centric): Emphasizes Collective Benefit, Authority, Responsibility, and Ethics.[15, 16, 17]
+    The Synergy: Implementing "FAIR and CARE" ensures that open science movements do not proceed at the expense of Indigenous sovereignty.[15, 16]
+
+::: {.notes} This slide compares the technical focus of the FAIR principles with the people-oriented focus of the CARE principles. The presenter should explain that while FAIR optimizes data discovery, it operates in a power-neutral space that can facilitate the unauthorized sharing of sensitive data. Adopting a unified "FAIR and CARE" approach ensures that open science initiatives respect cultural boundaries. :::
+Lessons from Exploitation: The Havasupai Case
+
+    Authorized Scope: Genetic materials provided in the 1990s specifically for tribal diabetes research.[13]
+    Unauthorized Misuse: University researchers conducted secondary studies on schizophrenia and inbreeding without consent.[13]
+    The Consequence: Sowed systemic distrust and demonstrated the dangers of lacking physical data possession.[13]
+
+::: {.notes} The presenter should use this slide to ground the discussion in a historical caution. The Havasupai Tribe diabetes study of the 1990s represents a severe breach of research ethics, illustrating the legal and cultural harms that occur when a tribe lacks physical possession and written control over biological and digital data assets. :::
+Weapons of Extraction: Pacific Salmon Case Study
+
+    Traditional Stewardship: First Nations monitored salmon return data to successfully manage sustainable harvests.[7]
+    Colonial Appropriation: Crown agencies extracted Indigenous data to expand commercial fisheries.[7]
+    The Weaponization: Extracted data was used to ban traditional sustainable fish traps, promoting industrial gear.[7]
+
+::: {.notes} This slide presents a second case study focused on natural resources. The presenter should trace how traditional ecological data of Pacific salmon in British Columbia was appropriated by colonial authorities. This demonstrates that data extraction has directly facilitated the physical dispossession of territories, ecological crises, and the criminalization of traditional conservation practices. :::
+Local Contexts: TK and Biocultural Labels
+
+    Western IP Deficiencies: Copyright laws protect individual, economic, and time-limited rights, failing communal knowledge.[21]
+    Notices: Applied by institutions and researchers to identify collections containing Indigenous interests.[19, 20]
+    Labels: Customized and applied only by communities to embed provenance, protocols, and permissions.[19, 20, 22]
+
+::: {.notes} The presenter should introduce the Local Contexts initiative. This slide explains the structural failure of Western copyright law to protect collective, spiritual, and permanent traditional knowledge. The presenter should clearly explain the distinction between researcher-applied Notices and community-applied Labels, showing how labels allow tribes to integrate their own protocols directly into global digital metadata. :::
+Operationalizing Sovereignty: Cherokee Nation Model
+
+    Executive Order 2024-07-CTH: Established the Task Force on Data Sovereignty and Governance.[5]
+    Cherokee AI Policy (2025): Formed a Generative AI Governance Committee to protect PII, PHI, and cultural assets.[5]
+    Core Rule: Prohibits the input of confidential or sensitive tribal data into public LLMs and AI tools.[5]
+
+::: {.notes} The presenter should introduce the Cherokee Nation's model of proactive tribal data governance. By detailing their 2024 Executive Order and subsequent 2025 AI Policy, the presenter will show that asserting data sovereignty requires building internal tribal policy, establishing clear technology procurement rules, and actively governing emerging technical tools such as generative AI. :::
+Cherokee Values as Policy Pillars
+
+    detsadasinasdi itsehesdi: Live and be highly skilled; utilize technology resourcefully to augment human talents.[5]
+    detsadageyusesdi: Be protective of one another's existence; treat data protection as a core element of self-governance.[5]
+    nudantiyu detsadanvwidisgesdi: Encourage and instruct one another thoughtfully and collaboratively.[5]
+
+::: {.notes} This slide shows how data policies can be directly rooted in tribal values. The presenter should detail how the Cherokee Nation translates community values into modern cybersecurity and data protection frameworks, proving that digital sovereignty is culturally situated and serves to preserve tribal existence. :::
+Legal Infrastructure: Yurok and Karuk Models
+
+    Yurok Sovereign Data Agreement (2026): Legally binds researchers to strict data creation and exchange limits.[5]
+    Karuk Tribe's Practicing Pikyav: Integrates research policies that demand collaborative governance and prevent data extraction.[5]
+    The "Four Buckets": Utilizing tribal codes, contracts, easements, and compliance to protect digital borders.[5]
+
+::: {.notes} Here, the presenter highlights legal mechanisms of data protection. The Yurok Sovereign Data Sharing and Security Agreement of 2026 and the Karuk Tribe's "Practicing Pikyav" are presented as practical examples of tribes using contracts and localized codes. The presenter should explain the "four buckets" of legal infrastructure—codes, contracts, easements, and federal/state compliance—as a toolkit for tribal leadership. :::
+Global Networks and Actionable Steps
+
+    Global Ecosystem: GIDA, USIDSN, Te Mana Raraunga (NZ), and Maiam nayri Wingara (Australia).[4, 24]
+    Strategic Action Steps for Tribal Leadership:
+        Establish tribal Institutional Review Boards (IRBs) and local research codes.[1]
+        Build local digital infrastructure, broadband networks, and data literacy.[5, 15, 18]
+        Standardize and enforce Sovereign Data Sharing Agreements with external partners.[5]
+
+::: {.notes} The final slide provides tribal leaders with actionable strategic recommendations. The presenter should emphasize that tribes are not alone; they are part of a global movement supported by international networks. By establishing tribal IRBs, drafting local data codes, building local digital capacities, and enforcing data sharing contracts, tribal nations can successfully reclaim their digital and physical futures. :::
+--------------------------------------------------------------------------------
+
+    Indigenous Data Sovereignty - MSU Library | Montana State University, https://www.lib.montana.edu/services/data/ids/
+    Indigenous Data Sovereignty (DDN3-A11) - CSPS, https://www.csps-efpc.gc.ca/tools/articles/indigenous-data-sovereignty-eng.aspx
+    Data sovereignty for tribal nations - Paubox, https://www.paubox.com/blog/data-sovereignty-for-tribal-nations
+    Indigenous Data Sovereignty and Governance | Native Nations Institute, https://nni.arizona.edu/our-work/research-policy-analysis/indigenous-data-sovereignty-governance
+    Indigenous Data Sovereignty for Tribal Stewardship, https://resources.ca.gov/Initiatives/Tribalaffairs/TribalStewardshipPolicyAndToolkit/Explore-the-Toolkit/Indigenous-Data-Sovereignty-for-Tribal-Stewardship
+    Who We Are — Global Indigenous Data Alliance, https://www.gida-global.org/whoweare
+    Taking care of knowledge, taking care of salmon: towards Indigenous data sovereignty in an era of climate change and cumulative effects - Facets Journal, https://www.facetsjournal.com/doi/10.1139/facets-2023-0135
+    Data Sovereignty - NNLM, https://www.nnlm.gov/resources/data/data-glossary/data-sovereignty
+    The First Nations Principles of OCAP®, https://fnigc.ca/wp-content/uploads/2022/10/OCAP_Brochure_20220927_web.pdf
+    Learning Resources – Data Services for Indigenous Scholarship and Sovereignty - UW Sites - University of Washington, https://sites.uw.edu/dsissresearch/learning-resources/
+    Indigenous Data Sovereignty - Indigitize, https://www.indigitize.org/data-sovereignty
+    The First Nations Principles of OCAP® - The First Nations ..., https://fnigc.ca/ocap-training/
+    The First Nations Principles of OCAP® - Waapihk Research, https://waapihk.com/2023/02/14/the-first-nations-principles-of-ocap/
+    The First Nations Principles of OCAP®, https://www.uottawa.ca/library/sites/g/files/bhrskd381/files/2022-12/bestpractices_fnigc_ocap_fact_sheet_en_final.pdf
+    Data Management with FAIR and CARE — CARE Principles - Gala, https://www.learngala.com/cases/data-management/6
+    Implementing FAIR and CARE Data Principles (DDN3-A12) - CSPS, https://www.csps-efpc.gc.ca/tools/articles/fair-care-eng.aspx
+    Data with principles: How to be FAIR, and why you should CARE - SFU Library, https://www.lib.sfu.ca/help/publish/scholarly-publishing/radical-access/fair-and-care-data
+    CARE Principles for Indigenous Data Governance, https://www.rd-alliance.org/wp-content/uploads/2024/03/CARE20Principles20for20Indigenous20Data20Governance_OnePagers_FINAL20Sept2006202019.pdf
+    Local Contexts Notices and Labels - DataCite Support, https://support.datacite.org/docs/local-contexts-notices-and-labels
+    Local Contexts – Grounding Indigenous Rights, https://localcontexts.org/
+    Beyond copyright: traditional knowledge and biocultural labels | SFU Library, https://www.lib.sfu.ca/help/publish/scholarly-publishing/radical-access/beyondcopyright-traditionalknowledge-bioculturallabels
+    Labels – Local Contexts, https://localcontexts.org/labels/about-the-labels/
+    Traditional Knowledge (TK) Labels | ICCROM | Our Collections Matter, https://ocm.iccrom.org/documents/traditional-knowledge-tk-labels
+    Networks and Organisations - Te Mana Raraunga, https://www.temanararaunga.maori.nz/kaiwhakahau
+    Maiam nayri Wingara Indigenous Data Sovereignty collective, https://www.maiamnayriwingara.org/
+    Māori & Indigenous Data Sovereignty Tools - Te Mana Raraunga, https://www.temanararaunga.maori.nz/resource-hub-copy
+    Revealjs Options - Quarto, https://quarto.org/docs/reference/formats/presentations/revealjs.html
+    Get Started with Quarto – presentations - GitHub Pages, https://rstudio-conf-2022.github.io/get-started-quarto/materials/05-presentations.html
+    Revealjs – Quarto, https://quarto.org/docs/presentations/revealjs/
+    CARE principles | Research Data Oxford, https://researchdata.ox.ac.uk/care-principles
