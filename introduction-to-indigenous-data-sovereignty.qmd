@@ -37,6 +37,43 @@ This is the foundation we are building on — and the foundation we are working 
 :::
 
 
+## Lessons from Exploitation: The Havasupai Case
+
+- **Authorized Scope:** Genetic samples provided in the 1990s specifically and only for tribal diabetes research.[^waapihk]
+- **Unauthorized Misuse:** University researchers conducted secondary studies on schizophrenia, migration, and inbreeding — without consent or knowledge of the tribe.[^waapihk]
+- **The Settlement:** The Havasupai Tribe sued and reached a $700,000 settlement in 2010, with samples returned — but the damage to trust was irreparable.[^waapihk]
+- **The Lesson:** Without physical data possession and explicit written controls, sovereignty is unenforceable.
+
+::: {.notes}
+Let me tell you about the Havasupai Tribe of Arizona, because their story is one every researcher and institution needs to hear.
+
+In the early 1990s, Havasupai tribal members provided blood samples to Arizona State University for diabetes research — a disease devastating their community. They gave these samples in good faith, for a specific, community-identified purpose.
+
+What happened next was a profound betrayal. University researchers used those same samples to conduct studies on schizophrenia, inbreeding, and the population's geographic origins — topics the tribe found deeply offensive and that directly contradicted their oral histories and cultural beliefs. None of this was consented to.
+
+The tribe found out, sued, and eventually received a $700,000 settlement and the return of the blood samples in 2010. But you cannot settle away the damage to trust. The Havasupai case became a turning point in research ethics — a concrete demonstration of what happens when a community has no physical possession of their data and no enforceable controls over its secondary use.
+
+This is why OCAP's principle of Possession is not abstract. Physical control is the mechanism that makes all other rights real.
+:::
+
+## Weapons of Extraction: Pacific Salmon Case Study
+
+- **Traditional Stewardship:** First Nations communities had centuries of systematic data on salmon return patterns to manage sustainable harvests.[^facets]
+- **Colonial Appropriation:** Crown agencies extracted this Indigenous ecological knowledge to expand commercial fisheries.[^facets]
+- **The Weaponization:** That same data was then used to ban the traditional fish traps that First Nations had always used — while promoting industrial fishing gear that degraded the ecosystem.[^facets]
+
+::: {.notes}
+The Pacific salmon story from British Columbia shows us something even more insidious — data being not just stolen, but weaponized against the very people it came from.
+
+For generations, First Nations communities on the Pacific Coast had carefully observed and recorded salmon migration patterns. This was not casual knowledge — it was sophisticated, systematic data that enabled sustainable fisheries management over centuries.
+
+When Crown agencies gained access to this knowledge, they used it to expand commercial fishing operations. And then, in a stunning act of colonial logic, they turned around and used that same data as evidence to ban the traditional fish traps that First Nations had always used — claiming the traps were unsustainable — while actively promoting the industrial fishing gear that was actually destroying the ecosystem.
+
+The community's own knowledge became the instrument of their dispossession. Their data was extracted, repackaged, and deployed as a legal justification for eliminating their traditional practices and their livelihoods.
+
+This is what "data as a weapon of extraction" means in practice.
+:::
+
 ## Defining Indigenous Data Sovereignty
 
 - **Inherent Authority:** Derived from the inherent right of tribes to govern their peoples, lands, and resources — predating any external legal grant.[^paubox] [^nni] [^ca-resources]
@@ -51,6 +88,34 @@ I want to emphasize the word *inherent*. This is not a right granted by federal 
 The scope is comprehensive. We are talking about every stage of the data lifecycle — how data is created, how it is collected, who can access it, how it can be analyzed, and what it can be used for. No single phase is exempt.
 
 And critically, Indigenous nations are not stakeholders in this conversation. They are not consultees who get to weigh in before a researcher makes a final decision. They are rights holders — with ultimate authority over how they are represented in data systems.
+:::
+
+## The Indigenous Data Relationship Pyramid
+
+- **Low Sovereignty:** *By them, for them* and *by them, for us* models keep decision authority external.[^carson-webinar]
+- **Transitional Practice:** *By them, with us* requires negotiated governance, data-sharing terms, and enforceable community oversight.[^carson-webinar]
+- **High Sovereignty:** *By us, for us* centers Indigenous institutions, Indigenous researchers, and Nation-defined priorities from design through reuse.[^carson-webinar]
+
+::: {.notes}
+Carson presents this as a practical diagnostic for partnerships.
+
+Many projects begin in externally led models because institutions already control infrastructure and funding. But the target should always be upward movement: from consultation to co-governance, and from co-governance to Indigenous-led data systems.
+
+This framing is useful for funders and universities because it asks a concrete question: where does authority actually sit today, and what commitments move it upward?
+:::
+
+## Human Rights and International Frameworks
+
+- **UNDRIP Alignment:** Rooted in the United Nations Declaration on the Rights of Indigenous Peoples, affirming rights to self-governance and cultural heritage.[^msulibrary] [^nni]
+- **Free, Prior, and Informed Consent:** Active, documented community consent is required at every stage of the data lifecycle — not a courtesy, a right.[^ocap-brochure] [^gala-care] [^rda-care]
+- **Transnational Alliances:** Indigenous data networks coordinate globally to safeguard rights and prevent knowledge exploitation.[^paubox] [^nnlm] [^tmr-networks]
+
+::: {.notes}
+The legal and moral foundation for Indigenous Data Sovereignty extends to the international stage through the United Nations Declaration on the Rights of Indigenous Peoples — UNDRIP. Adopted in 2007, UNDRIP affirms the rights of Indigenous Peoples to self-governance and control over their cultural heritage, including data.
+
+Central to this framework is the principle of Free, Prior, and Informed Consent — FPIC. This is not a checkbox or a courtesy. It means that at every stage of the data lifecycle, communities must have the opportunity to say yes or no with full knowledge of what they are agreeing to. No researcher should be collecting, analyzing, or publishing Indigenous data without this explicit, documented consent.
+
+What is powerful about this moment is that Indigenous data advocates are not fighting these battles in isolation. There are transnational networks — the Global Indigenous Data Alliance, Te Mana Raraunga in Aotearoa New Zealand, Maiam nayri Wingara in Australia — all working in coordination to build a global architecture of data rights. This is an international movement.
 :::
 
 ## The First Nations Principles of OCAP®
@@ -79,20 +144,6 @@ Control means that First Nations have authority over all phases of the research 
 Access means that Nations retain the right to retrieve and manage their data at any time, no matter where it is physically stored. If a government agency or university has been holding your data for decades, you still have the right to get it back.
 
 And Possession is the mechanism that makes all of this real. Physical custody — having your data on infrastructure you control — is what operationalizes ownership. Without possession, sovereignty is only theoretical.
-:::
-
-## Human Rights and International Frameworks
-
-- **UNDRIP Alignment:** Rooted in the United Nations Declaration on the Rights of Indigenous Peoples, affirming rights to self-governance and cultural heritage.[^msulibrary] [^nni]
-- **Free, Prior, and Informed Consent:** Active, documented community consent is required at every stage of the data lifecycle — not a courtesy, a right.[^ocap-brochure] [^gala-care] [^rda-care]
-- **Transnational Alliances:** Indigenous data networks coordinate globally to safeguard rights and prevent knowledge exploitation.[^paubox] [^nnlm] [^tmr-networks]
-
-::: {.notes}
-The legal and moral foundation for Indigenous Data Sovereignty extends to the international stage through the United Nations Declaration on the Rights of Indigenous Peoples — UNDRIP. Adopted in 2007, UNDRIP affirms the rights of Indigenous Peoples to self-governance and control over their cultural heritage, including data.
-
-Central to this framework is the principle of Free, Prior, and Informed Consent — FPIC. This is not a checkbox or a courtesy. It means that at every stage of the data lifecycle, communities must have the opportunity to say yes or no with full knowledge of what they are agreeing to. No researcher should be collecting, analyzing, or publishing Indigenous data without this explicit, documented consent.
-
-What is powerful about this moment is that Indigenous data advocates are not fighting these battles in isolation. There are transnational networks — the Global Indigenous Data Alliance, Te Mana Raraunga in Aotearoa New Zealand, Maiam nayri Wingara in Australia — all working in coordination to build a global architecture of data rights. This is an international movement.
 :::
 
 ## The CARE Principles for Data Governance
@@ -162,43 +213,6 @@ After five years of development that included direct participation from Indigeno
 What IEEE 2890-2025 does, concretely, is specify how organizations must document the origin, history, and ownership of any data derived from Indigenous lands, cultures, or knowledge systems. It requires that consent, custodianship, and cultural attribution be recorded at the point of collection and carried through every subsequent use.
 
 This is the infrastructure that makes CARE enforceable at a technical level. It is one of the most important tools we have for preventing the kind of data laundering that has historically stripped Indigenous content of its origins.
-:::
-
-## Lessons from Exploitation: The Havasupai Case
-
-- **Authorized Scope:** Genetic samples provided in the 1990s specifically and only for tribal diabetes research.[^waapihk]
-- **Unauthorized Misuse:** University researchers conducted secondary studies on schizophrenia, migration, and inbreeding — without consent or knowledge of the tribe.[^waapihk]
-- **The Settlement:** The Havasupai Tribe sued and reached a $700,000 settlement in 2010, with samples returned — but the damage to trust was irreparable.[^waapihk]
-- **The Lesson:** Without physical data possession and explicit written controls, sovereignty is unenforceable.
-
-::: {.notes}
-Let me tell you about the Havasupai Tribe of Arizona, because their story is one every researcher and institution needs to hear.
-
-In the early 1990s, Havasupai tribal members provided blood samples to Arizona State University for diabetes research — a disease devastating their community. They gave these samples in good faith, for a specific, community-identified purpose.
-
-What happened next was a profound betrayal. University researchers used those same samples to conduct studies on schizophrenia, inbreeding, and the population's geographic origins — topics the tribe found deeply offensive and that directly contradicted their oral histories and cultural beliefs. None of this was consented to.
-
-The tribe found out, sued, and eventually received a $700,000 settlement and the return of the blood samples in 2010. But you cannot settle away the damage to trust. The Havasupai case became a turning point in research ethics — a concrete demonstration of what happens when a community has no physical possession of their data and no enforceable controls over its secondary use.
-
-This is why OCAP's principle of Possession is not abstract. Physical control is the mechanism that makes all other rights real.
-:::
-
-## Weapons of Extraction: Pacific Salmon Case Study
-
-- **Traditional Stewardship:** First Nations communities had centuries of systematic data on salmon return patterns to manage sustainable harvests.[^facets]
-- **Colonial Appropriation:** Crown agencies extracted this Indigenous ecological knowledge to expand commercial fisheries.[^facets]
-- **The Weaponization:** That same data was then used to ban the traditional fish traps that First Nations had always used — while promoting industrial fishing gear that degraded the ecosystem.[^facets]
-
-::: {.notes}
-The Pacific salmon story from British Columbia shows us something even more insidious — data being not just stolen, but weaponized against the very people it came from.
-
-For generations, First Nations communities on the Pacific Coast had carefully observed and recorded salmon migration patterns. This was not casual knowledge — it was sophisticated, systematic data that enabled sustainable fisheries management over centuries.
-
-When Crown agencies gained access to this knowledge, they used it to expand commercial fishing operations. And then, in a stunning act of colonial logic, they turned around and used that same data as evidence to ban the traditional fish traps that First Nations had always used — claiming the traps were unsustainable — while actively promoting the industrial fishing gear that was actually destroying the ecosystem.
-
-The community's own knowledge became the instrument of their dispossession. Their data was extracted, repackaged, and deployed as a legal justification for eliminating their traditional practices and their livelihoods.
-
-This is what "data as a weapon of extraction" means in practice.
 :::
 
 ## Local Contexts: TK and Biocultural Labels
@@ -309,6 +323,20 @@ The Alaska Native Epidemiology Center is fighting a different battle — for for
 And for urban Native communities — who are often invisible in both tribal and municipal data systems — the Montana Consortium for Urban Indian Health created a Data Governance Committee specifically to manage clinical data for Urban Indian Organizations. Because sovereignty follows the people, not just the reservation boundary.
 :::
 
+## Public Health Governance Case: Arizona vs New Mexico (COVID-19)
+
+- **Policy Design Matters:** Stronger compacts and formalized collaboration pathways can improve tribal-state data coordination during emergencies.[^carson-webinar]
+- **Risk of Harmful Disclosure:** Publicly accessible, granular geographic case reporting can expose tribal communities to profiling and stigma if governance safeguards are weak.[^carson-webinar]
+- **Operational Lesson:** Emergency plans must pre-negotiate tribal data governance, include Tribal Epidemiology Centers, and define access controls before crises begin.[^carson-webinar]
+
+::: {.notes}
+The webinar contrasts pandemic-era governance in Arizona and New Mexico to show that legal architecture, not just political rhetoric, changes outcomes.
+
+Where collaboration is compelled by policy, tribal coordination is more reliable. Where policy is vague or optional, communities bear the consequences through delayed access, inconsistent protections, and exposed data.
+
+For this audience, the key takeaway is preparedness: data governance cannot be improvised in a crisis. It has to be codified in advance.
+:::
+
 ## Domain: Education and Economic Sovereignty
 
 - **Decolonizing Metrics:** The TCU Institutional Research Collaborative is replacing deficit-based enrollment indicators with "Cultural Key Enrollment Indicators" defined by communities themselves.[^nni]
@@ -323,6 +351,28 @@ The Tribal College and University Institutional Research Collaborative is buildi
 At the operational level, the American Indian College Fund is using Zengine — a custom grants management platform — to ensure that scholarship and enrollment data collected for one TCU cannot be accessed by another. Data access is controlled at the institutional level, by the communities themselves.
 
 And the Center for Indian Country Development at the Federal Reserve Bank of Minneapolis — the Native Economic Trends project — is tracking over 70 economic indicators for Indian Country while building in formal protections for tribal data residency. Economic data about tribal nations should be governed by tribal nations.
+:::
+
+## Domain: Identity and Enrollment Sovereignty
+- **Identity as State Construction:** U.S. and state legal systems historically imposed identity rules (including blood quantum) to constrain Indigenous political recognition and rights.[^carson-webinar]
+- **Enrollment as Governance Tool:** Tribal enrollment data is generated by Nations and tied to citizenship, but frequently treated by external institutions as administrative paperwork rather than sovereign data.[^carson-webinar]
+- **Key Tension:** Self-identification and tribal affiliation can be declared by individuals, but verified citizenship status is authorized only by tribal governments.[^carson-webinar]
+- **Widely Collected, Poorly Governed:** Universities, scholarship programs, health systems, and service agencies routinely request enrollment proof, but governance terms are often unclear.[^carson-webinar]
+- **Asymmetry:** Tribes can issue and verify enrollment status, yet often lack practical pathways to audit how external entities store, share, or repurpose those records.[^carson-webinar]
+- **Priority Actions:** Create standard notification practices, inter-institutional data-sharing agreements, and tribal-request mechanisms for retrieval, reporting, and deletion controls.[^carson-webinar]
+
+::: {.notes}
+Dr. William Carson's webinar makes an essential point that complements this deck's policy framing: the legal definition of Indigenous identity in the United States has repeatedly been shaped through state power, not Indigenous governance.
+
+He traces how blood-quantum and related bookkeeping systems became administrative tools for narrowing recognition and access, even while tribes maintained their own systems of belonging.
+
+The practical implication is immediate: when institutions ask students, patients, or applicants to provide enrollment verification, they are handling sovereign tribal data, not just another form upload. If that data is collected without clear tribal governance pathways, sovereignty is functionally bypassed.
+
+Carson's enrollment-data argument is one of the most actionable parts of the webinar.
+
+The issue is not whether services should verify eligibility. The issue is that once enrollment documentation leaves a tribal system, control often disappears.
+
+A sovereignty-aligned model would preserve utility while restoring accountability: clear terms at collection, constraints on reuse, and enforceable rights for Nations to request records, usage reports, and corrective action.
 :::
 
 ## Sovereign Digital Infrastructure
@@ -566,3 +616,5 @@ Data sovereignty is not a destination. It is a practice of self-determination, c
 [^tmr-tools]: Māori & Indigenous Data Sovereignty Tools — Te Mana Raraunga. <https://www.temanararaunga.maori.nz/resource-hub-copy>
 
 [^oxford-care]: CARE Principles — Research Data Oxford. <https://researchdata.ox.ac.uk/care-principles>
+
+[^carson-webinar]: Carson, W. (2026, May 21). *Introduction to Indigenous Data Sovereignty and Tribal Enrollment Data* (webinar transcript). Alaska INBRE CBPR Core. Local transcript file in project workspace.

@@ -1,0 +1,147 @@
+Briefing: Indigenous Data Sovereignty and the CARE Principles for Data Governance
+
+Executive Summary
+
+Indigenous Data Sovereignty (IDSov) represents the inherent right of Indigenous Peoples to govern the collection, ownership, and application of data pertaining to their communities, lands, and knowledge systems. This framework shifts the paradigm from a history of colonial extraction and "deficit-based" reporting to one of self-determination and asset-based governance.
+
+The primary global framework for operationalizing this right is the CARE Principles (Collective Benefit, Authority to Control, Responsibility, and Ethics). Developed by the Global Indigenous Data Alliance (GIDA), CARE complements the technical focus of the FAIR Principles (Findable, Accessible, Interoperable, Reusable) by introducing a "people-and-purpose" orientation. While FAIR optimizes data for machine-sharing, CARE ensures that data usage respects Indigenous rights and yields equitable outcomes.
+
+Recent advancements, including the IEEE 2890-2025 global standard for data provenance and the implementation of Local Contexts digital labels, provide technical and legal mechanisms to ground these rights. However, the rapid rise of Artificial Intelligence (AI) and the persistence of "digital colonialism" pose urgent threats, necessitating robust Indigenous-led governance to protect cultural heritage from decontextualized extraction.
+
+
+--------------------------------------------------------------------------------
+
+
+1. Conceptual Foundations
+
+Indigenous Data Sovereignty (IDSov)
+
+IDSov is defined as the right of Indigenous Peoples to exercise ownership and authority over Indigenous data. This ownership encompasses the entire data lifecycle: creation, collection, access, analysis, interpretation, management, dissemination, and reuse.
+
+* Inherent Authority: It is a political right derived from inherent tribal sovereignty, pre-dating Western constitutional law and rooted in traditional stewardship of ancestral resources.
+* Legal Basis: It is supported by the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), which affirms rights to self-governance and control over cultural heritage.
+
+Indigenous Data Governance (IDGov)
+
+IDGov is the practical mechanism of IDSov. It is the right of Indigenous Peoples to autonomously decide what, how, and why data are collected and used. It operates through two philosophies:
+
+* Data for Governance: Ensuring Indigenous nations have the relevant, high-quality data needed to inform local decision-making and resource allocation.
+* Governance of Data: Indigenous Peoples exercising power over the rules and processes applied to their data, especially when held by external agencies or institutions.
+
+
+--------------------------------------------------------------------------------
+
+
+2. The CARE Principles for Indigenous Data Governance
+
+Formulated in 2019, the CARE Principles provide a transnational framework to ensure that data movements, such as "Open Data," respect Indigenous interests.
+
+Principle	Core Objective	Key Dimensions
+Collective Benefit	Data ecosystems must enable Indigenous Peoples to derive tangible value.	Inclusive development, innovation, and improved governance for citizen engagement.
+Authority to Control	Indigenous rights to data must be recognized and empowered.	Right to free, prior, and informed consent (FPIC); data for self-determination; governance of Indigenous Knowledge.
+Responsibility	Data stewards must share how data supports Indigenous self-determination.	Building positive relationships; expanding community data literacy/workforce; grounding data in Indigenous worldviews.
+Ethics	Indigenous rights and wellbeing are the primary concern at all stages.	Minimizing harm (avoiding "deficit" portrayals); justice in power/resource distribution; consideration of potential future uses.
+
+
+--------------------------------------------------------------------------------
+
+
+3. Technical Frameworks and Synergies: FAIR vs. CARE
+
+The data management landscape is currently defined by the interaction between two sets of guiding principles:
+
+* FAIR (Data-Centric): Focuses on the technical characteristics of data (Findable, Accessible, Interoperable, Reusable) to facilitate sharing and machine-readability.
+* CARE (People-Centric): Focuses on the human rights and relational aspects of data stewardship.
+
+The Tension: The emphasis on "greater data sharing" within the FAIR framework can create tension for Indigenous Peoples. Because FAIR is "power-neutral," it often ignores historical contexts and can facilitate the unauthorized extraction of sensitive knowledge if not balanced by CARE.
+
+The Goal: Data stewards and researchers are encouraged to be both "FAIR and CARE," ensuring that data is technically optimized but governed ethically.
+
+
+--------------------------------------------------------------------------------
+
+
+4. Regional Standards and Operational Frameworks
+
+Various Indigenous governing bodies have established specific standards to counteract colonial data practices.
+
+The OCAP® Principles (Canada)
+
+Established in 1998 by the Assembly of First Nations, OCAP is the de facto ethical standard for research involving First Nations data in Canada.
+
+* Ownership: Collective relationship to cultural knowledge and digital assets.
+* Control: Unilateral authority over all phases of research and management.
+* Access: Continuous right of retrieval and management, regardless of where data is stored.
+* Possession: Concrete physical custody and digital stewardship; the operational safeguard for ownership.
+
+IEEE 2890-2025
+
+Approved in 2025 after a five-year process, this is the first global standard for the provenance of Indigenous Peoples' data. It operationalizes ethical demands into industry specifications, detailing how to record the origin, history, and ownership of data derived from Indigenous lands and cultures.
+
+Māori Data Sovereignty (Aotearoa New Zealand)
+
+The Te Mana Raraunga network governs Māori data as a taonga (treasure). Tools include the Māori Data Audit Tool, used by organizations to assess their readiness to address Indigenous data principles.
+
+
+--------------------------------------------------------------------------------
+
+
+5. Bridging the Gap: Local Contexts, Notices, and Labels
+
+Traditional Intellectual Property (IP) laws, such as copyright, are often insufficient because they protect individual creators rather than communal knowledge. The Local Contexts initiative provides digital tools to fill this gap through the Local Contexts Hub.
+
+Notices (Institution/Researcher Tool)
+
+Notices are placeholders applied by institutions to disclose Indigenous interests in collections.
+
+* TK (Traditional Knowledge) Notice: Signals that cultural rights need further attention.
+* BC (Biocultural) Notice: Recognizes rights to genetic resources and biodiversity data.
+* Open to Collaboration: Indicates a commitment to developing new partnerships.
+
+Labels (Community Tool)
+
+Labels are customized and applied only by Indigenous communities to establish specific protocols and permissions.
+
+* Provenance Labels: Identifying cultural authority and community names.
+* Protocol Labels: Outlining rules for access (e.g., Seasonal, Men-only, or Sacred).
+* Permission Labels: Indicating approved activities (e.g., Non-Commercial or Verified).
+
+
+--------------------------------------------------------------------------------
+
+
+6. Challenges and Future Risks
+
+The "5D Data" Paradigm and Deficit Reporting
+
+Historically, settler states have gathered data through a lens of deficiency, focusing on differences, disparities, disadvantages, dysfunction, and deprivation. This "5D data" has been used to justify paternalistic interventions and the surveillance of Indigenous communities. IDSov seeks to move toward asset-based models that reflect Indigenous priorities.
+
+Digital Colonialism and Artificial Intelligence
+
+The rapid proliferation of AI and Machine Learning (ML) poses unprecedented risks:
+
+* Industrial-Scale Extraction: AI models are often trained on "scraped" data—including Indigenous languages, artwork, and science—without consent or provenance.
+* Cultural Erasure: Generative AI can misappropriate and misrepresent Indigenous customs, clothing, and knowledge.
+* Weaponized Data: Surveillance tools are being used to track and harass Indigenous rights defenders, particularly those protecting ancestral territories.
+
+Systemic Barriers
+
+A 2025 Global Indigenous Data Sovereignty Conference in Canberra identified critical barriers:
+
+* The vast majority of Indigenous data remains under the control of non-Indigenous nation-states.
+* Lack of funding for local digital infrastructure and data literacy.
+* Inconsistent implementation of Indigenous governance frameworks within government entities.
+
+
+--------------------------------------------------------------------------------
+
+
+7. Strategic Implementation for Organizations
+
+To successfully incorporate IDSov, organizations must adopt proactive legal and technical infrastructures:
+
+1. Tribal Codes/Regulations: Establish formal legal jurisdiction over digital activities.
+2. Sovereign Data Sharing Agreements: Use contracts to safeguard collective ownership and strictly limit sovereignty waivers.
+3. Physical Infrastructure: Preserve control over local servers, broadband networks, and fiber optics.
+4. Capacity Building: Support the development of an Indigenous data workforce and enhance data literacy within communities.
+5. Relational Ethics: Shift from "regulated consultation" to "value-based relationships" grounded in trust, reciprocity, and mutual understanding.
